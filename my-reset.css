@@ -1,0 +1,24 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+header a {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+}
+
+svg,
+img,
+iframe {
+  display: block;
+}
+input {
+  padding: 0;
+}
